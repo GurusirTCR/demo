@@ -2,5 +2,4 @@
 	This Is For Testing Purpase
 This Project Working in Three Dev  
 	
-	1. DevA
-	2. DevB
+	2. Master 
